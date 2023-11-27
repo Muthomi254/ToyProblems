@@ -10,7 +10,6 @@ def twoPositives(a, b, c):
     
   return positiveCount == 2
   
-# result = twoPositives(1, -15, 10)
 print( twoPositives(1, -15, 10))
 print (twoPositives(1, -15, 0))
 print (twoPositives(1, 5, 2))
